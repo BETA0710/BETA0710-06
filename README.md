@@ -51,4 +51,4 @@
 📣 每日爆料更新机制
 本站内容每日同步更新，重点聚焦热搜人物动态，自动收录多个爆料源并分类整理。同时采用AI审核系统避免谣言扩散，仅保留公开网络已有的讨论资料。
 
-<span style="display:none;">[Canonical link](https://github.com/BETA0710/BETA0710-01)</span>
+<span style="display:none;">[Canonical link](https://github.com/BETA0710/BETA0710-06)</span>
